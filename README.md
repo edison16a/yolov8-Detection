@@ -1,3 +1,7 @@
+# Detection.py
+
+Simplified yolov8-Detection to 1 Python file. Easy to use and run.
+
 # How to use
 
 https://github.com/ultralytics/yolov5
